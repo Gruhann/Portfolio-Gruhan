@@ -92,7 +92,7 @@ function App() {
 
 
         {/* Projects Section */}
-        <h2 className="text-4xl flex items-center justify-center font-extrabold text-gray-900 dark:text-white">Projects</h2>
+        <h2 className="text-4xl flex items-center justify-center font-extrabold text-gray-700 dark:text-white">Projects</h2>
         <div id="projects" className="flex items-center justify-center transition-colors bg-white dark:bg-gray-800">
           <div className="max-w-4xl mx-auto p-6 grid grid-cols-1 md:grid-cols-2 gap-12">
             
