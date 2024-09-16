@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+nav ul li a {
+  text-decoration: none;
+  color: inherit;
+}
+.dark {
+  background-color: #1a202c; /* Dark background */
+  color: #e2e8f0; /* Light text */
+}
+.dark .bg-white {
+  background-color: #2d3748;
+}
+
+.dark .text-gray-900 {
+  color: #edf2f7;
+}
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+
+  .nav-toggle {
+    display: block;
+  }
+}
+
+@keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-scroll {
+    animation: scroll 10s linear infinite;
+  }
+   
+  .project-info {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 10px; 
+  }
+  
+  .project-info .button-container {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    gap: 10px; 
+  }
