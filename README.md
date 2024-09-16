@@ -1,8 +1,16 @@
-# React + Vite
+# Gruhan Ancha - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio website project! This website showcases my skills, projects, and experiences as a budding software developer.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+About Me: Learn more about me, my background, and career aspirations.
+Projects: Explore the projects I've worked on, including descriptions and links.
+Skills: View my technical skills and competencies.
+Contact: Get in touch with me via email or phone.
+Responsive Design: Optimized for desktop and mobile devices.
+
+Technologies Used
+HTML5
+CSS3 (including media queries for responsiveness)
+JavaScript (ES6+)
