@@ -103,7 +103,7 @@ function App() {
         <div id="about" className="h-screen flex items-center justify-center transition-colors bg-white dark:bg-gray-950">
   <div className="max-w-4xl mx-auto p-6  flex flex-col md:flex-row items-center justify-center">
     {/* Left Section */}
-    <div className="w-full md:w-1/2">
+    <div className="w-full md:w-1/2 mt-20 md:mt-0">
       <h2 className="text-4xl font-extrabold text-gray-900 dark:text-white">About Me</h2>
       <p className="mt-4 text-lg font-bold text-gray-700 dark:text-gray-300">
         Hi! I’m Gruhan Ancha, a passionate developer with a strong foundation in computer science.  
